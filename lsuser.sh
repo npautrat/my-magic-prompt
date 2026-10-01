@@ -1,0 +1,3 @@
+lsuser() {
+  command ls
+}

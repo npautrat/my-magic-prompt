@@ -1,0 +1,3 @@
+mkdirectory() {
+  command mkdir "$@"
+}

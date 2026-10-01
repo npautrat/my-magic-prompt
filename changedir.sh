@@ -1,0 +1,3 @@
+changedir() {
+  builtin cd "$@"
+}

@@ -1,0 +1,16 @@
+aboutuser() {
+  echo "=========================================================="
+  echo "                  NATHAN TERMINAL SHELL                     "
+  echo "=========================================================="
+  echo "NATHAN est un mini-shell personnalisé écrit en Bash, conçu "
+  echo "pour simplifier la gestion de fichiers, l'administration "
+  echo "système et la consultation des infos utilisateur."
+  echo "----------------------------------------------------------"
+  echo " MODULES & FONCTIONNALITÉS :"
+  echo "  • Profil & Infos  : about, age, profil, version"
+  echo "  • Système & Heure : hour, pwd, password"
+  echo "  • Fichiers & Dirs : mkdir, open, rmdir, rm, touch"
+  echo "  • Navigation      : cd, help, quit"
+  echo "  • Réseau          : smtp"
+  echo "=========================================================="
+}

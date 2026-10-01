@@ -1,0 +1,3 @@
+touchfi() {
+  command touch "$@"
+}

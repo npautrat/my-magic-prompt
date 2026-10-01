@@ -1,0 +1,3 @@
+pwdir() {
+  command pwd
+}

@@ -1,0 +1,3 @@
+removedir() {
+  command rmdir "$@"
+}
