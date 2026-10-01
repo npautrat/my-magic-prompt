@@ -12,5 +12,6 @@ aboutuser() {
   echo "  • Fichiers & Dirs : mkdir, open, rmdir, rm, touch"
   echo "  • Navigation      : cd, help, quit"
   echo "  • Réseau          : smtp"
+  echo "  • Aide            : help"
   echo "=========================================================="
 }
